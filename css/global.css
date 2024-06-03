@@ -1,0 +1,98 @@
+.avatar{
+    width: 12rem;
+    height: 14rem;
+    border-radius: .5rem;
+    border: 0 !important;
+}
+.infor_name{
+    font-size: 3rem !important;
+}
+.infor_data{
+    font-size: 1.8rem !important;
+    font-weight: 200 !important;
+}
+.infor_contact{
+    font-size: 1.8rem !important;
+}
+.me_title{
+    font-size: 40px !important;
+}
+.fine{
+    font-weight: 300 !important;
+    font-size: 20px !important;
+}
+.crude{
+    font-weight: 300 !important;
+    font-size: 28px !important;
+}
+.hot_crude{
+    font-size: 40px !important;
+}
+
+.education_name{
+    font-size: 30px !important;
+}
+.education_time{
+    font-size: 20px !important;
+}
+.company_name{
+    font-size: 30px !important;
+}
+.company_time{
+    font-size: 25px !important;
+}
+.operating_duty{
+    font-size: 20px !important;
+}
+.project_title{
+    font-size: 40px !important;
+}
+.project_time{
+    font-size: 20px !important;
+    color: #ccc;
+    margin-top: 30px !important;
+}
+.project_content_one{ 
+    font-size: 20px !important;
+    color: #ccc;
+    margin: 30px 0 5px 0 !important;
+}
+.project_content{
+    font-size: 20px !important;
+    color: #ccc;
+    margin-top: 0px !important;
+}
+.project_duty li{
+    font-size: 25px !important;
+    font-weight: 300 !important;
+}
+.introduce{
+    font-size: 20px !important;
+    font-family: "Helvetica Neue", "Segoe UI", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+}
+.contact_infor{
+    display: flex !important;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px !important;
+    color: #f3d7ac;
+}
+.project_item li{
+    list-style: none;
+    float: left;
+    padding: 1rem;
+}
+.project_img{
+    width: 14rem;
+    height: 24rem;
+}
+.project_item li p{
+    font-size: 20px !important;
+    text-align: center;
+}
+.project_item_img{
+    width: 100rem;
+    height: 30rem;
+}
